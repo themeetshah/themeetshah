@@ -22,7 +22,7 @@ I love working with:
 1. **Restaurant Billing System** - A system for managing restaurant billing, utilizing static data structures.
 2. **Airline Reservation System** - A project for airline booking and management using static data structures.
 
-### Integrated Projects with Dynamic Data Structures
+### Integrated Projects with Dynamic Data Structures and Database
 1. **Online Course Enrollment System** - An integrated project using dynamic data structures for managing online course enrollments.
 2. **Book My PG** - A project focused on property rentals, utilizing dynamic data structures and database management concepts.
 
