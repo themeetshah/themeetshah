@@ -22,12 +22,12 @@ Eager to delve into the world of software development.
 
 
 ## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=When%20a%20program%20is%20clean%20and%20neat,%20nicely%20structured,%20and%20consistent,%20it%20can%20be%20beuatiful.&author=Gary%20Kildall)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=When%20a%20program%20is%20clean%20and%20neat,%20nicely%20structured,%20and%20consistent,%20it%20can%20be%20beautiful.&author=Gary%20Kildall)
 
 
 ## 🌐 Socials:
 <p align="center">
-<a target="_blank" href="https://instagram.com/themeetshahh"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/themeetshahh/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/meet-shah-1110a72b2/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:meetshah4063@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://x.com/themeetshahh"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
+<a target="_blank" href="https://x.com/themeetshahh/"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></img></a>
