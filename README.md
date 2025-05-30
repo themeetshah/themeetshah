@@ -2,7 +2,6 @@ Hey There👋 I'm Meet Shah
 ==========================
 Passionate Computer Engineering Student. 
 <br/>
-Eager to delve into the world of software development.
 
 ## 💫 About Me:
 
